@@ -2,13 +2,17 @@
 
 I'm **Yuvraj**, a third-year **Computer Science student at Georgia Tech**.  
 
-On campus, I’m currently:
+Currently:
 - ⚙️ Making an Interpreter for the Lux Programming Language in C++
 - 🧑‍🏫 **Teaching Assistant** for Data Structures & Algorithms
 - 🤖 Member of the **Robotics Club** software team (Robojackets: Robocup)
 - 🔬 Former **research assistant** in multiple campus labs
 
-I've also interned at **Bloomberg**, and I’ll be joining **Databricks** next summer as a software engineering intern.
+Past:
+- 📈 Software Engineering Intern at **Bloomberg**
+- ⚗️ **Software Researcher** at Najafi Neuroscience Lab and Electronic ARTrium Lab
+
+I’ll be joining 🧱 **Databricks** 🧱 next summer as a software engineering intern.
 
 ## 📫 Contact
 📩 ydhadwal3@gatech.edu
