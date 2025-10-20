@@ -6,7 +6,6 @@ Currently:
 - ⚙️ Building an Interpreter for the Lux Programming Language in C++
 - 🧑‍🏫 **Teaching Assistant** for Data Structures & Algorithms
 - 🤖 Member of the **Robotics Club** software team (Robojackets: Robocup)
-- 🔬 Former **research assistant** in multiple campus labs
 
 Past:
 - 📈 Software Engineering Intern at **Bloomberg**
