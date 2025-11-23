@@ -3,7 +3,7 @@
 I'm **Yuvraj**, a third-year **Computer Science student at Georgia Tech**.  
 
 Currently:
-- ⚙️ Building an Interpreter for the Lux Programming Language in C++
+- ⚙️ Building an Interpreter for the Lox Programming Language in C++
 - 🧑‍🏫 **Teaching Assistant** for Data Structures & Algorithms
 - 🤖 Member of the **Robotics Club** software team (Robojackets: Robocup)
 
