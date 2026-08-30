@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-I'm **Yuvraj**, a third-year **Computer Science student at Georgia Tech**.  
+I'm **Yuvraj**, a fourth-year **Computer Science student at Georgia Tech**.  
 
 Currently:
-- ⚙️ Building an Interpreter for the Lox Programming Language in C++
-- 🧑‍🏫 **Teaching Assistant** for Data Structures & Algorithms
+- 🧑‍🏫 **Teaching Assistant** for Operating Systems
 - 🤖 Member of the **Robotics Club** software team (Robojackets: Robocup)
+- ⚗️ Undergraduate Software Researcher for **Kernel Research Group**
 
 Past:
 - 📈 Software Engineering Intern at **Bloomberg**
+- 🧱 Software Engineering Intern at **Databricks**
 - ⚗️ **Software Researcher** at Najafi Neuroscience Lab and Electronic ARTrium Lab
-
-I’ll be joining 🧱 **Databricks** 🧱 next summer as a software engineering intern.
 
 ## 📫 Contact
 📩 ydhadwal3@gatech.edu
