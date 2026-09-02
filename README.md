@@ -11,6 +11,7 @@ Past:
 - 📈 Software Engineering Intern at **Bloomberg**
 - 🧱 Software Engineering Intern at **Databricks**
 - ⚗️ **Software Researcher** at Najafi Neuroscience Lab and Electronic ARTrium Lab
+- 🧑‍🏫 **Teaching Assistant** for Data Structures and Algorithms
 
 ## 📫 Contact
 📩 ydhadwal3@gatech.edu
